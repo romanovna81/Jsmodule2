@@ -1,5 +1,5 @@
-let simpleMessage = " <h1>Повторение - мать учения!</h1><br>";
-document.write(simpleMessage);
+let simpleMessage = "Повторение - мать учения!";
+console.log(simpleMessage);
 
-simpleMessage = "<h2>Всё гениальное - просто!</h2><br>";
-document.write(simpleMessage);
+simpleMessage = "Всё гениальное - просто!";
+console.log(simpleMessage);

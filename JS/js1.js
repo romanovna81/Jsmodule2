@@ -1,3 +1,3 @@
 //  1.
 let greeting = "Hello, everyone!";
-document.write(greeting);
+console.log(greeting);

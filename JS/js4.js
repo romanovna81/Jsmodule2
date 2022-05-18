@@ -6,4 +6,4 @@ const weightB = 0.112;
 
 let totalWeight = (a * 0.072) + (b * 0.112);
 
-document.write(`<h3>Общий вес ваших покупок:<i>${totalWeight.toFixed(2)} кг</i></h3>`);
+console.log(`<h3>Общий вес ваших покупок:<i>${totalWeight.toFixed(2)} кг</i></h3>`);
